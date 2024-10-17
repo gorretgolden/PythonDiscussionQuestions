@@ -1,9 +1,11 @@
 
-#Question 4 (i)
+#Question 4(i)
 # Create a list of five of your favorite foods. Write a Python program to:
 # Add two more items to the list.
 # Remove one item from the list.
 # Print the updated list.
+
+
 
 
 

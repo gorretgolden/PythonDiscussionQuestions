@@ -5,8 +5,8 @@
 # the students will be receiving. 
 # The grades are:
 # 90% - 100%  Grade is A
-# 80% - 89% Grade is  B
-# 70% - 79% Grade is C                                                        
-# 60% - 69%  Grade is D                  
-# 50% - 59%  Grade is E  
-# < 50% Fail 
+# 80% - 89% Grade is   B
+# 70% - 79% Grade is   C                                                        
+# 60% - 69%  Grade is  D                  
+# 50% - 59%  Grade is  E  
+# < 50%                Fail 

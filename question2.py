@@ -1,7 +1,7 @@
 # Question 2(i)
 
 # Define a function named calculate_bmi that takes a person's weight (in kilograms) and height (in 
-# meters) as parameters and returns their BMI (BMI = weight/height” ) _ 
+# meters) as parameters and returns their BMI. (BMI = weight/height) 
 # Calculate and sen their BMI category: 
 # Below 18.5: "Underweight" 
 # 18.5 to 24.9: "Normal weight" 

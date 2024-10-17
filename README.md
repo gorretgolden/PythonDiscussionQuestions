@@ -1,5 +1,6 @@
 ## Assignment Setup Instructions
-Welcome, students! Follow these steps to download the discussion assignment repository, remove the .git folder, and set up your environment to work on the assignment. Today’s main topics include functions, loops, and lists.
+Welcome, students! Follow these steps to download the discussion questions repository. 
+Today’s main topics of discussion are functions and lists.
 
 # Step-by-Step Instructions
 1. Clone the Repository
